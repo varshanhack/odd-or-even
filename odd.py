@@ -8,5 +8,5 @@ while True:
  else:
     print(n,"is odd number")
  print("")
- input("Press any key to continue...")
+ input("Press enter to continue...")
  subprocess.run("cls",shell=True)
